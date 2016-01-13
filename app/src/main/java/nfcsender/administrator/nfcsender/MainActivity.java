@@ -23,7 +23,13 @@ public class MainActivity extends Activity implements CreateNdefMessageCallback,
 
     NfcAdapter mNfcAdapter = null; //nfcAdapter
     TextView mTextView; // mTextView
-
+    // commit test
+    // commit test
+    // commit test
+    // commit test
+    // commit test
+    // commit test
+    // commit test
     @Override
     protected void onCreate(Bundle savedInstanceState) {
 
