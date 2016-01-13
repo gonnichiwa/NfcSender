@@ -30,6 +30,9 @@ public class MainActivity extends Activity implements CreateNdefMessageCallback,
     // commit test
     // commit test
     // commit test
+    // commit test2
+    // commit test2
+    // commit test2
     @Override
     protected void onCreate(Bundle savedInstanceState) {
 
